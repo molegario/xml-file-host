@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Rooms Time_Generated="1/23/2023 7:00:03 AM">
+    <Room room_name="SOP 3rd Large" ResourceId="c62d3c0b-271b-4a30-a979-911baa96ee4d" propertyid="b8927cec-6154-4e49-bad9-6645495a3bdb">
+        <booking BookingId="ec039eb4-ee76-4b87-8f62-05835da64b33" BookingItemId="d1a96251-0089-46b7-a8d5-9903dfba4a49">
+            <CurrentDate>1/23/2023 7:00:03 AM</CurrentDate>
+            <Start_Time_Long>1/23/2023 10:30:00 AM</Start_Time_Long>
+            <End_Time_Long>1/23/2023 12:00:00 PM</End_Time_Long>
+            <Start_Time>10:30 AM</Start_Time>
+            <End_Time>12:00 PM</End_Time>
+            <Setup_Time>1/23/2023 10:30:00 AM</Setup_Time>
+            <Break_Down_Time>1/23/2023 12:00:00 PM</Break_Down_Time>
+            <Host>Harry Potter</Host>
+            <Name_Of_Meeting>Tech Company Retreat</Name_Of_Meeting>
+            <Room_Name>SOP 3rd Large</Room_Name>
+        </booking>
+    </Room>
+    <Room room_name="ABBCI East" ResourceId="3dd9ab90-4425-4334-8b20-5cfb0d37abc4" propertyid="b8927cec-6154-4e49-bad9-6645495a3bdb">
+        <booking BookingId="84d23d7d-af1a-45ce-9a22-0e585ae67fb4" BookingItemId="7ddbee5f-d94e-43a7-80fd-d83948233fa3">
+            <CurrentDate>1/23/2023 7:00:03 AM</CurrentDate>
+            <Start_Time_Long>1/23/2023 12:00:00 PM</Start_Time_Long>
+            <End_Time_Long>1/23/2023 1:00:00 PM</End_Time_Long>
+            <Start_Time>12:00 PM</Start_Time>
+            <End_Time> 1:00 PM</End_Time>
+            <Setup_Time>1/23/2023 12:00:00 PM</Setup_Time>
+            <Break_Down_Time>1/23/2023 1:00:00 PM</Break_Down_Time>
+            <Host>Elizabeth Bennet</Host>
+            <Name_Of_Meeting>Tech Company Hackathon</Name_Of_Meeting>
+            <Room_Name>ABBCI East</Room_Name>
+        </booking>
+    </Room>
+    <Room room_name="ABBCI Combined" ResourceId="db6382b5-d168-4e2f-877f-3bd62cb40b2c" propertyid="b8927cec-6154-4e49-bad9-6645495a3bdb">
+        <booking BookingId="cf0f7246-7210-442e-a44f-102289346e72" BookingItemId="42658133-2500-4a6a-a00c-6c66d70f7d08">
+            <CurrentDate>1/23/2023 7:00:03 AM</CurrentDate>
+            <Start_Time_Long>1/23/2023 1:30:00 PM</Start_Time_Long>
+            <End_Time_Long>1/23/2023 5:30:00 PM</End_Time_Long>
+            <Start_Time> 1:30 PM</Start_Time>
+            <End_Time> 5:30 PM</End_Time>
+            <Setup_Time>1/23/2023 1:30:00 PM</Setup_Time>
+            <Break_Down_Time>1/23/2023 5:30:00 PM</Break_Down_Time>
+            <Host>Katniss Everdeen</Host>
+            <Name_Of_Meeting>Tech Company Networking Night</Name_Of_Meeting>
+            <Room_Name>ABBCI Combined</Room_Name>
+        </booking>
+    </Room>
+    <Room room_name="Stager 3" ResourceId="585e4f5e-6b9e-428a-a8b7-ecde2e0e09c2" propertyid="58204c26-75b4-4379-b560-031c8ad25267">
+        <booking BookingId="b920ac05-264d-40d0-854d-23f3b3c72d5c" BookingItemId="99b26b0b-3d48-4e6e-b984-3c283d4a56d5">
+            <CurrentDate>1/23/2023 7:00:03 AM</CurrentDate>
+            <Start_Time_Long>1/23/2023 10:00:00 AM</Start_Time_Long>
+            <End_Time_Long>1/23/2023 11:00:00 AM</End_Time_Long>
+            <Start_Time>10:00 AM</Start_Time>
+            <End_Time>11:00 AM</End_Time>
+            <Setup_Time>1/23/2023 10:00:00 AM</Setup_Time>
+            <Break_Down_Time>1/23/2023 11:00:00 AM</Break_Down_Time>
+            <Host>Holden, Atticus F</Host>
+            <Name_Of_Meeting>Product Evaluation</Name_Of_Meeting>
+            <Room_Name>Stager 3</Room_Name>
+        </booking>
+    </Room>
+    <Room room_name="Stager 7" ResourceId="cc869d02-4312-45e3-b343-9393a3942069" propertyid="58204c26-75b4-4379-b560-031c8ad25267">
+        <booking BookingId="376d1f68-22a9-4534-b3d5-341e31494825" BookingItemId="8684a648-a8da-4d79-854b-65f357825478">
+            <CurrentDate>1/23/2023 7:00:03 AM</CurrentDate>
+            <Start_Time_Long>1/23/2023 11:00:00 AM</Start_Time_Long>
+            <End_Time_Long>1/23/2023 12:00:00 PM</End_Time_Long>
+            <Start_Time>11:00 AM</Start_Time>
+            <End_Time>12:00 PM</End_Time>
+            <Setup_Time>1/23/2023 11:00:00 AM</Setup_Time>
+            <Break_Down_Time>1/23/2023 12:00:00 PM</Break_Down_Time>
+            <Host>Gatsby, Jay F</Host>
+            <Name_Of_Meeting>Marketing Summit</Name_Of_Meeting>
+            <Room_Name>Stager 7</Room_Name>
+        </booking>
+    </Room>
+    <Room room_name="SOP Well 2" ResourceId="b3898710-7c79-41f6-9471-514f82c75388" propertyid="b8927cec-6154-4e49-bad9-6645495a3bdb">
+        <booking BookingId="1d05a6ce-06c8-4fa1-9536-4f0905ae83d2" BookingItemId="a8d5d0be-2fae-4a4e-b2b2-06f38b60acb9">
+            <CurrentDate>1/23/2023 7:00:03 AM</CurrentDate>
+            <Start_Time_Long>1/23/2023 9:00:00 AM</Start_Time_Long>
+            <End_Time_Long>1/23/2023 11:30:00 AM</End_Time_Long>
+            <Start_Time> 9:00 AM</Start_Time>
+            <End_Time>11:30 AM</End_Time>
+            <Setup_Time>1/23/2023 9:00:00 AM</Setup_Time>
+            <Break_Down_Time>1/23/2023 11:30:00 AM</Break_Down_Time>
+            <Host>Holmes, Sherlock S</Host>
+            <Name_Of_Meeting>Productivity Workshop</Name_Of_Meeting>
+            <Room_Name>SOP Well 2</Room_Name>
+        </booking>
+    </Room>
+    <Room room_name="SOP Well 2" ResourceId="b3898710-7c79-41f6-9471-514f82c75388" propertyid="b8927cec-6154-4e49-bad9-6645495a3bdb">
+        <booking BookingId="1d05a6ce-06c8-4fa1-9536-4f0905ae83d2" BookingItemId="a8d5d0be-2fae-4a4e-b2b2-06f38b60acb9">
+            <CurrentDate>1/23/2023 7:00:03 AM</CurrentDate>
+            <Start_Time_Long>1/23/2023 9:00:00 AM</Start_Time_Long>
+            <End_Time_Long>1/23/2023 11:30:00 AM</End_Time_Long>
+            <Start_Time> 9:00 AM</Start_Time>
+            <End_Time>11:30 AM</End_Time>
+            <Setup_Time>1/23/2023 9:00:00 AM</Setup_Time>
+            <Break_Down_Time>1/23/2023 11:30:00 AM</Break_Down_Time>
+            <Host>Harry Potter</Host>
+            <Name_Of_Meeting>Virtual Open House</Name_Of_Meeting>
+            <Room_Name>SOP Well 2</Room_Name>
+        </booking>
+    </Room>
+    <Room room_name="WBH 694 Conf Room" ResourceId="6871b50e-5feb-4113-99f1-85da0a0bfcfc" propertyid="b8927cec-6154-4e49-bad9-6645495a3bdb">
+        <booking BookingId="3ab04661-223c-41a9-aa5a-74ee37d1aa12" BookingItemId="786393f8-5dd4-496f-ae4c-25d39eac106b">
+            <CurrentDate>1/23/2023 7:00:03 AM</CurrentDate>
+            <Start_Time_Long>1/23/2023 8:30:00 AM</Start_Time_Long>
+            <End_Time_Long>1/23/2023 9:00:00 AM</End_Time_Long>
+            <Start_Time> 8:30 AM</Start_Time>
+            <End_Time> 9:00 AM</End_Time>
+            <Setup_Time>1/23/2023 8:30:00 AM</Setup_Time>
+            <Break_Down_Time>1/23/2023 9:00:00 AM</Break_Down_Time>
+            <Host>Atticus Finch</Host>
+            <Name_Of_Meeting>Product Demo</Name_Of_Meeting>
+            <Room_Name>WBH 694 Conf Room</Room_Name>
+        </booking>
+    </Room>
+    <Room room_name="Ortho 2" ResourceId="10fa6a93-777d-4ca7-b2eb-46cb001d45e5" propertyid="58204c26-75b4-4379-b560-031c8ad25267">
+        <booking BookingId="590f2e3a-3cf0-4620-b069-76bd2092afa7" BookingItemId="4c3c3cfd-7f80-4c77-86e7-26de3534d6f8">
+            <CurrentDate>1/23/2023 7:00:03 AM</CurrentDate>
+            <Start_Time_Long>1/23/2023 7:30:00 AM</Start_Time_Long>
+            <End_Time_Long>1/23/2023 8:00:00 AM</End_Time_Long>
+            <Start_Time> 7:30 AM</Start_Time>
+            <End_Time> 8:00 AM</End_Time>
+            <Setup_Time>1/23/2023 7:30:00 AM</Setup_Time>
+            <Break_Down_Time>1/23/2023 8:00:00 AM</Break_Down_Time>
+            <Host>Elizabeth Bennet</Host>
+            <Name_Of_Meeting>Team Building Exercise</Name_Of_Meeting>
+            <Room_Name>Ortho 2</Room_Name>
+        </booking>
+    </Room>
+    <Room room_name="Ortho 2" ResourceId="10fa6a93-777d-4ca7-b2eb-46cb001d45e5" propertyid="58204c26-75b4-4379-b560-031c8ad25267">
+        <booking BookingId="2aa40e05-04ba-4876-9b53-7711a7ceb251" BookingItemId="34a5aed7-592c-4e94-b723-e28edeac212c">
+            <CurrentDate>1/23/2023 7:00:03 AM</CurrentDate>
+            <Start_Time_Long>1/23/2023 2:00:00 PM</Start_Time_Long>
+            <End_Time_Long>1/23/2023 3:00:00 PM</End_Time_Long>
+            <Start_Time> 2:00 PM</Start_Time>
+            <End_Time> 3:00 PM</End_Time>
+            <Setup_Time>1/23/2023 2:00:00 PM</Setup_Time>
+            <Break_Down_Time>1/23/2023 3:00:00 PM</Break_Down_Time>
+            <Host>Albus Dumbledore</Host>
+            <Name_Of_Meeting>Tech Company BBQ</Name_Of_Meeting>
+            <Room_Name>Ortho 2</Room_Name>
+        </booking>
+    </Room>
+    <Room room_name="Stager 7" ResourceId="cc869d02-4312-45e3-b343-9393a3942069" propertyid="58204c26-75b4-4379-b560-031c8ad25267">
+        <booking BookingId="50f0a0ab-9464-4a25-a9ad-808583550e97" BookingItemId="8e70ee25-abbf-47b3-a37d-615c8df8431c">
+            <CurrentDate>1/23/2023 7:00:03 AM</CurrentDate>
+            <Start_Time_Long>1/23/2023 4:00:00 PM</Start_Time_Long>
+            <End_Time_Long>1/23/2023 5:30:00 PM</End_Time_Long>
+            <Start_Time> 4:00 PM</Start_Time>
+            <End_Time> 5:30 PM</End_Time>
+            <Setup_Time>1/23/2023 4:00:00 PM</Setup_Time>
+            <Break_Down_Time>1/23/2023 5:30:00 PM</Break_Down_Time>
+            <Host>Jon Snow</Host>
+            <Name_Of_Meeting>Tech Company Picnic</Name_Of_Meeting>
+            <Room_Name>Stager 7</Room_Name>
+        </booking>
+    </Room>
+    <Room room_name="Ortho 2" ResourceId="10fa6a93-777d-4ca7-b2eb-46cb001d45e5" propertyid="58204c26-75b4-4379-b560-031c8ad25267">
+        <booking BookingId="35d8dc31-a9d3-4af3-85d5-8533439458ca" BookingItemId="38a62a01-8e1d-4a0f-9296-a6d146a7e234">
+            <CurrentDate>1/23/2023 7:00:03 AM</CurrentDate>
+            <Start_Time_Long>1/23/2023 7:00:00 AM</Start_Time_Long>
+            <End_Time_Long>1/23/2023 7:30:00 AM</End_Time_Long>
+            <Start_Time> 7:00 AM</Start_Time>
+            <End_Time> 7:30 AM</End_Time>
+            <Setup_Time>1/23/2023 7:00:00 AM</Setup_Time>
+            <Break_Down_Time>1/23/2023 7:30:00 AM</Break_Down_Time>
+            <Host>Atticus Finch</Host>
+            <Name_Of_Meeting>Tech Company Hackathon</Name_Of_Meeting>
+            <Room_Name>Ortho 2</Room_Name>
+        </booking>
+    </Room>
+    <Room room_name="Stager 7" ResourceId="cc869d02-4312-45e3-b343-9393a3942069" propertyid="58204c26-75b4-4379-b560-031c8ad25267">
+        <booking BookingId="f9a7be8e-8758-49bf-b067-b0cf0e95178c" BookingItemId="b552f13f-9580-4b7c-88a5-faa7a55113c7">
+            <CurrentDate>1/23/2023 7:00:03 AM</CurrentDate>
+            <Start_Time_Long>1/23/2023 7:00:00 AM</Start_Time_Long>
+            <End_Time_Long>1/23/2023 8:00:00 AM</End_Time_Long>
+            <Start_Time> 7:00 AM</Start_Time>
+            <End_Time> 8:00 AM</End_Time>
+            <Setup_Time>1/23/2023 7:00:00 AM</Setup_Time>
+            <Break_Down_Time>1/23/2023 8:00:00 AM</Break_Down_Time>
+            <Host>Eustace Scrubb</Host>
+            <Name_Of_Meeting>Productivity Workshop</Name_Of_Meeting>
+            <Room_Name>Stager 7</Room_Name>
+        </booking>
+    </Room>
+    <Room room_name="Ortho 1" ResourceId="db09eec2-1568-44e1-bf46-8a8418328c6e" propertyid="58204c26-75b4-4379-b560-031c8ad25267">
+        <booking BookingId="d9facec6-e9c0-49cf-af7d-c2b7376b2420" BookingItemId="2db9a5fb-4ab3-4865-a331-733e8fbd4aa7">
+            <CurrentDate>1/23/2023 7:00:03 AM</CurrentDate>
+            <Start_Time_Long>1/23/2023 1:00:00 PM</Start_Time_Long>
+            <End_Time_Long>1/23/2023 2:30:00 PM</End_Time_Long>
+            <Start_Time> 1:00 PM</Start_Time>
+            <End_Time> 2:30 PM</End_Time>
+            <Setup_Time>1/23/2023 1:00:00 PM</Setup_Time>
+            <Break_Down_Time>1/23/2023 2:30:00 PM</Break_Down_Time>
+            <Host>Odysseus Rizos</Host>
+            <Name_Of_Meeting>Team Building Exercise</Name_Of_Meeting>
+            <Room_Name>Ortho 1</Room_Name>
+        </booking>
+    </Room>
+    <Room room_name="Stager 3,5" ResourceId="6b371959-2e2d-47c8-ab0a-f0223b25c7b4" propertyid="58204c26-75b4-4379-b560-031c8ad25267">
+        <booking BookingId="b3bf9cc3-0ed0-4e30-af0d-c6cf60f01009" BookingItemId="2d1d2109-137f-4766-b9c0-1d2b15e5f8e1">
+            <CurrentDate>1/23/2023 7:00:03 AM</CurrentDate>
+            <Start_Time_Long>1/23/2023 1:00:00 PM</Start_Time_Long>
+            <End_Time_Long>1/23/2023 5:00:00 PM</End_Time_Long>
+            <Start_Time> 1:00 PM</Start_Time>
+            <End_Time> 5:00 PM</End_Time>
+            <Setup_Time>1/23/2023 11:00:00 AM</Setup_Time>
+            <Break_Down_Time>1/23/2023 5:00:00 PM</Break_Down_Time>
+            <Host>Gandalf Greyhame</Host>
+            <Name_Of_Meeting>Client Networking Event</Name_Of_Meeting>
+            <Room_Name>Stager 3,5</Room_Name>
+        </booking>
+    </Room>
+</Rooms>
